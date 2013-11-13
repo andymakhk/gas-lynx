@@ -1,6 +1,8 @@
 gas-lynx
 ========
 
+The Text-based Browser
+
 Using HTMLService with Google Apps Script
 
 Origins:
